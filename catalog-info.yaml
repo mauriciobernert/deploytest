@@ -1,13 +1,13 @@
-apiVersion: backstage.io/v1alpha1
+apiVersion: teste
 kind: Component
 metadata:
-  name: Portal DX
-  description: Developer Experience MadeiraMadeira.
+  name: teste
+  description: Deste
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  owner: MadeiraMadeira
+  owner: mauricio
   lifecycle: experimental
